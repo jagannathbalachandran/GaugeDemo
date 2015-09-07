@@ -1,0 +1,313 @@
+16:24:23.816 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+16:28:02.809 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/hello_swiggy.spec
+16:28:13.378 [INFO] Spec removed: /Users/jbalacha/Swiggy/specs/hello_swiggy.spec
+16:28:13.378 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/hello_swiggy.spec
+16:28:13.379 [ERRO] Removing watcher on : /Users/jbalacha/Swiggy/specs/hello_swiggy.spec___jb_bak___
+16:28:13.379 [ERRO] Removing watcher on : /Users/jbalacha/Swiggy/specs/hello_swiggy.spec___jb_old___
+16:34:38.942 [INFO] Spec removed: /Users/jbalacha/Swiggy/specs/hello_swiggy.spec
+16:34:38.942 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/hello_swiggy.spec
+21:52:26.611 [INFO] Spec removed: /Users/jbalacha/Swiggy/specs/hello_swiggy.spec
+21:52:26.611 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/hello_swiggy.spec
+21:52:26.611 [ERRO] Removing watcher on : /Users/jbalacha/Swiggy/specs/hello_swiggy.spec___jb_bak___
+21:52:35.618 [ERRO] Error response from runner on getStepNamesRequest: Connection closed [127.0.0.1:56429] cause: EOF
+21:52:35.620 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+22:24:06.857 [ERRO] Error response from runner on getStepNamesRequest: Connection closed [127.0.0.1:49437] cause: EOF
+22:24:06.862 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+22:36:34.242 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+22:42:20.307 [INFO] Spec removed: /Users/jbalacha/Swiggy/specs/hello_swiggy.spec
+22:42:20.307 [ERRO] Removing watcher on : /Users/jbalacha/Swiggy/specs/hello_swiggy.spec___jb_bak___
+22:42:20.307 [ERRO] Removing watcher on : /Users/jbalacha/Swiggy/specs/hello_swiggy.spec___jb_old___
+22:42:20.307 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/hello_swiggy.spec
+22:48:32.396 [INFO] Spec removed: /Users/jbalacha/Swiggy/specs/hello_swiggy.spec
+22:48:32.396 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/hello_swiggy.spec
+22:48:32.396 [ERRO] Removing watcher on : /Users/jbalacha/Swiggy/specs/hello_swiggy.spec___jb_old___
+22:48:35.368 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+22:50:09.015 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+22:51:14.685 [INFO] Spec removed: /Users/jbalacha/Swiggy/specs/hello_swiggy.spec
+22:51:14.685 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/hello_swiggy.spec
+22:51:14.686 [ERRO] Removing watcher on : /Users/jbalacha/Swiggy/specs/hello_swiggy.spec___jb_old___
+22:51:24.204 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+22:51:34.518 [INFO] Spec removed: /Users/jbalacha/Swiggy/specs/hello_swiggy.spec
+22:51:34.518 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/hello_swiggy.spec
+22:51:34.518 [ERRO] Removing watcher on : /Users/jbalacha/Swiggy/specs/hello_swiggy.spec___jb_old___
+22:51:40.630 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+05:51:35.330 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+09:49:40.640 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+09:54:52.433 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+09:56:21.460 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+09:57:35.963 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+09:58:31.496 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+09:59:42.799 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+18:24:51.978 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+18:57:03.882 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+18:57:28.286 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+18:57:54.168 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+19:11:18.704 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+19:19:03.981 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+19:19:56.799 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+19:20:47.312 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+19:22:08.282 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+19:23:45.204 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+19:24:16.445 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+19:28:29.040 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+19:30:54.040 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+19:34:11.164 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+19:35:04.198 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+19:38:38.644 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+19:40:16.649 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+19:41:06.097 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+19:42:01.887 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+19:47:06.098 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+19:49:23.622 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+19:50:05.285 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+19:51:44.669 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+19:56:41.677 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+19:58:20.375 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+20:26:55.495 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/flipkart.spec
+20:26:55.495 [INFO] Spec removed: /Users/jbalacha/Swiggy/specs/hello_swiggy.spec
+20:27:01.546 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+20:28:59.945 [INFO] Spec removed: /Users/jbalacha/Swiggy/specs/flipkart.spec
+20:28:59.945 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/flipkart.spec
+20:29:18.868 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+20:31:08.979 [INFO] Spec removed: /Users/jbalacha/Swiggy/specs/flipkart.spec
+20:31:08.979 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/flipkart.spec
+20:31:08.980 [ERRO] Removing watcher on : /Users/jbalacha/Swiggy/specs/flipkart.spec___jb_old___
+20:31:53.443 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+20:44:29.429 [INFO] Spec removed: /Users/jbalacha/Swiggy/specs/flipkart.spec
+20:44:29.429 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/flipkart.spec
+20:45:46.275 [INFO] Spec removed: /Users/jbalacha/Swiggy/specs/flipkart.spec
+20:45:46.275 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/flipkart.spec
+20:47:07.309 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+20:53:21.867 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+20:59:38.016 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+21:04:08.459 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+21:05:06.430 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+21:06:23.093 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+21:07:01.451 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+07:17:23.618 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+11:06:21.724 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+11:12:01.996 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+11:12:25.452 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+11:16:29.104 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+11:23:45.983 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+11:24:59.357 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+12:12:58.556 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+12:14:44.102 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/flipkart.spec
+12:14:50.632 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+12:15:43.095 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+12:16:53.662 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/flipkart.spec
+12:17:05.397 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/flipkart.spec
+12:18:52.094 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+12:25:37.843 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+12:30:01.550 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+12:31:02.805 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+12:38:21.985 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+12:39:56.201 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+12:46:40.610 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+12:51:16.049 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+12:52:21.939 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+12:53:35.776 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+12:56:43.799 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/flipkart.spec
+12:58:11.649 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/flipkart.spec
+12:58:18.019 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+13:00:24.782 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+13:01:38.640 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+13:02:55.461 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+13:04:13.524 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+13:06:04.894 [INFO] Spec removed: /Users/jbalacha/Swiggy/specs/flipkart.spec
+13:06:04.894 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/flipkart.spec
+13:06:15.948 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+13:06:55.787 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+14:36:49.527 [INFO] Spec removed: /Users/jbalacha/Swiggy/specs/flipkart.spec
+14:36:49.527 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/flipkart.spec
+15:04:02.590 [INFO] Spec removed: /Users/jbalacha/Swiggy/specs/flipkart.spec
+15:04:02.590 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/flipkart.spec
+15:04:07.630 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+15:04:26.476 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+15:10:03.755 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+15:20:50.169 [INFO] Spec removed: /Users/jbalacha/Swiggy/specs/flipkart.spec
+15:20:50.170 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/flipkart.spec
+15:20:50.171 [ERRO] Removing watcher on : /Users/jbalacha/Swiggy/specs/flipkart.spec___jb_old___
+15:22:06.966 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/flipkart.spec
+15:22:12.542 [INFO] Spec removed: /Users/jbalacha/Swiggy/specs/flipkart.spec
+15:22:12.542 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/flipkart.spec
+15:22:37.742 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+15:27:51.972 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+15:30:00.354 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+15:34:06.652 [INFO] Spec removed: /Users/jbalacha/Swiggy/specs/flipkart.spec
+15:34:06.652 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/flipkart.spec
+15:34:23.618 [INFO] Spec removed: /Users/jbalacha/Swiggy/specs/flipkart.spec
+15:34:23.618 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/flipkart.spec
+15:34:43.465 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+15:36:50.841 [INFO] Spec removed: /Users/jbalacha/Swiggy/specs/flipkart.spec
+15:36:50.841 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/flipkart.spec
+15:37:06.058 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+15:40:38.520 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+15:41:38.786 [INFO] Spec removed: /Users/jbalacha/Swiggy/specs/flipkart.spec
+15:41:38.786 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/flipkart.spec
+15:41:38.787 [ERRO] Spec Parse failure: [ParseError] /Users/jbalacha/Swiggy/specs/flipkart.spec : line no: 27, Step should not be blank
+15:41:38.787 [ERRO] Removing watcher on : /Users/jbalacha/Swiggy/specs/flipkart.spec___jb_old___
+15:42:27.030 [INFO] Spec removed: /Users/jbalacha/Swiggy/specs/flipkart.spec
+15:42:27.031 [ERRO] Removing watcher on : /Users/jbalacha/Swiggy/specs/flipkart.spec___jb_bak___
+15:42:27.031 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/flipkart.spec
+15:46:09.939 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/flipkart.spec
+15:46:14.694 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+15:47:51.021 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+15:48:42.410 [INFO] Spec removed: /Users/jbalacha/Swiggy/specs/flipkart.spec
+15:48:42.411 [ERRO] Removing watcher on : /Users/jbalacha/Swiggy/specs/flipkart.spec___jb_bak___
+15:48:42.411 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/flipkart.spec
+15:49:12.761 [INFO] Spec removed: /Users/jbalacha/Swiggy/specs/flipkart.spec
+15:49:12.761 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/flipkart.spec
+15:49:12.762 [ERRO] Removing watcher on : /Users/jbalacha/Swiggy/specs/flipkart.spec___jb_old___
+15:49:15.016 [INFO] Spec removed: /Users/jbalacha/Swiggy/specs/flipkart.spec
+15:49:15.016 [ERRO] Removing watcher on : /Users/jbalacha/Swiggy/specs/flipkart.spec___jb_bak___
+15:49:15.016 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/flipkart.spec
+15:56:23.868 [INFO] Spec removed: /Users/jbalacha/Swiggy/specs/flipkart.spec
+15:56:23.868 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/flipkart.spec
+15:56:31.188 [INFO] Spec removed: /Users/jbalacha/Swiggy/specs/flipkart.spec
+15:56:31.188 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/flipkart.spec
+15:57:24.750 [INFO] Spec removed: /Users/jbalacha/Swiggy/specs/flipkart.spec
+15:57:24.750 [ERRO] Removing watcher on : /Users/jbalacha/Swiggy/specs/flipkart.spec___jb_old___
+15:57:24.750 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/flipkart.spec
+15:59:51.605 [INFO] Spec removed: /Users/jbalacha/Swiggy/specs/flipkart.spec
+15:59:51.605 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/flipkart.spec
+15:59:51.606 [ERRO] Removing watcher on : /Users/jbalacha/Swiggy/specs/flipkart.spec___jb_old___
+16:00:12.759 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+16:01:35.214 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+16:02:34.598 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+16:41:11.742 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+16:42:18.752 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+16:43:26.131 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+16:45:13.256 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+16:46:21.693 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+16:47:20.058 [INFO] Spec removed: /Users/jbalacha/Swiggy/specs/flipkart.spec
+16:47:20.059 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/flipkart.spec
+16:47:20.060 [ERRO] Removing watcher on : /Users/jbalacha/Swiggy/specs/flipkart.spec___jb_old___
+16:47:28.665 [INFO] Spec removed: /Users/jbalacha/Swiggy/specs/flipkart.spec
+16:47:28.665 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/flipkart.spec
+16:48:29.427 [INFO] Spec removed: /Users/jbalacha/Swiggy/specs/flipkart.spec
+16:48:29.427 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/flipkart.spec
+16:50:10.754 [INFO] Spec removed: /Users/jbalacha/Swiggy/specs/flipkart.spec
+16:50:10.754 [ERRO] Removing watcher on : /Users/jbalacha/Swiggy/specs/flipkart.spec___jb_bak___
+16:50:10.755 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/flipkart.spec
+16:50:10.755 [ERRO] Spec Parse failure: [ParseError] /Users/jbalacha/Swiggy/specs/flipkart.spec : line no: 38, Step should not be blank
+16:54:19.811 [INFO] Spec removed: /Users/jbalacha/Swiggy/specs/flipkart.spec
+16:54:19.811 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/flipkart.spec
+16:54:19.812 [ERRO] Removing watcher on : /Users/jbalacha/Swiggy/specs/flipkart.spec___jb_old___
+16:55:36.371 [INFO] Spec removed: /Users/jbalacha/Swiggy/specs/flipkart.spec
+16:55:36.371 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/flipkart.spec
+16:14:22.166 [INFO] Spec removed: /Users/jbalacha/Swiggy/specs/flipkart.spec
+16:14:22.166 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/flipkart.spec
+16:46:41.003 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+22:17:29.387 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+10:12:14.784 [INFO] Spec removed: /Users/jbalacha/Swiggy/specs/flipkart.spec
+10:12:14.785 [ERRO] Removing watcher on : /Users/jbalacha/Swiggy/specs/flipkart.spec___jb_old___
+10:12:14.785 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/flipkart.spec
+10:23:47.886 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+10:23:55.853 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/flipkart.spec
+10:24:02.500 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+10:48:01.981 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/flipkart.spec
+21:18:39.423 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+21:18:56.026 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+21:18:56.091 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/flipkart.spec
+21:18:56.091 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/flipkart.spec
+21:18:56.192 [INFO] Refactoring result from gauge:
+Specs changed        : [/Users/jbalacha/Swiggy/specs/flipkart.spec]
+Concepts changed     : []
+Source files changed : [/Users/jbalacha/Swiggy/src/test/java/steps.StepFlipkart.java]
+Warnings             : []
+21:19:55.989 [INFO] Spec removed: /Users/jbalacha/Swiggy/specs/flipkart.spec
+21:19:55.990 [INFO] Spec removed: /Users/jbalacha/Swiggy/specs/flipkart.spec
+21:19:55.990 [ERRO] Removing watcher on : /Users/jbalacha/Swiggy/specs/flipkart.spec___jb_old___
+21:19:55.990 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/flipkart.spec
+21:19:55.991 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/flipkart.spec
+21:19:55.992 [ERRO] Removing watcher on : /Users/jbalacha/Swiggy/specs/flipkart.spec___jb_old___
+16:07:45.263 [ERRO] Error response from runner on getStepNamesRequest: Request Timeout
+16:07:45.266 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+17:08:00.211 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+19:51:32.396 [INFO] Spec removed: /Users/jbalacha/Swiggy/specs/flipkart.spec
+19:51:32.396 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/flipkart.spec
+19:51:45.001 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+20:14:47.134 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/flipkart.spec
+20:18:16.529 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+20:51:52.246 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+20:52:30.093 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/flipkart.spec
+20:52:30.093 [INFO] Spec removed: /Users/jbalacha/Swiggy/specs/flipkart.spec
+20:52:30.093 [ERRO] Removing watcher on : /Users/jbalacha/Swiggy/specs/flipkart.spec___jb_old___
+20:52:30.104 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/flipkart.spec
+20:56:09.949 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+20:58:58.409 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+21:15:18.372 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+21:24:27.339 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+21:29:24.075 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+21:34:57.194 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+21:55:33.072 [ERRO] Error response from runner on getStepNamesRequest: Request Timeout
+21:55:33.077 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+21:59:00.146 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+22:00:37.335 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+22:01:12.924 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+22:03:54.709 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+22:07:34.303 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+07:49:05.378 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+07:50:36.942 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+07:53:59.845 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+07:57:44.240 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/accountdemo.spec
+07:57:44.241 [ERRO] Spec Parse failure: [ParseError] /Users/jbalacha/Swiggy/specs/accountdemo.spec : line no: 1, Spec does not have any elements
+07:57:44.258 [INFO] Spec removed: /Users/jbalacha/Swiggy/specs/accountdemo.spec
+07:57:44.259 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/accountdemo.spec
+07:57:55.112 [INFO] Spec removed: /Users/jbalacha/Swiggy/specs/accountdemo.spec
+07:57:55.112 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/accountdemo.spec
+07:57:56.613 [INFO] Spec removed: /Users/jbalacha/Swiggy/specs/accountdemo.spec
+07:57:56.613 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/accountdemo.spec
+07:57:57.186 [INFO] Spec removed: /Users/jbalacha/Swiggy/specs/accountdemo.spec
+07:57:57.187 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/accountdemo.spec
+07:57:58.551 [INFO] Spec removed: /Users/jbalacha/Swiggy/specs/accountdemo.spec
+07:57:58.551 [ERRO] Removing watcher on : /Users/jbalacha/Swiggy/specs/accountdemo.spec___jb_bak___
+07:57:58.551 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/accountdemo.spec
+07:57:58.552 [ERRO] Spec Parse failure: [ParseError] /Users/jbalacha/Swiggy/specs/accountdemo.spec : line no: 11, Step should not be blank
+07:59:02.170 [INFO] Spec removed: /Users/jbalacha/Swiggy/specs/accountdemo.spec
+07:59:02.170 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/accountdemo.spec
+08:13:44.713 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+19:16:09.243 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+19:16:52.064 [INFO] Spec removed: /Users/jbalacha/Swiggy/specs/accountdemo.spec
+19:16:52.065 [ERRO] Removing watcher on : /Users/jbalacha/Swiggy/specs/accountdemo.spec___jb_bak___
+19:16:52.065 [ERRO] Removing watcher on : /Users/jbalacha/Swiggy/specs/accountdemo.spec___jb_old___
+19:16:52.065 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/accountdemo.spec
+19:16:55.563 [INFO] Spec removed: /Users/jbalacha/Swiggy/specs/accountdemo.spec
+19:16:55.563 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/accountdemo.spec
+19:16:55.564 [ERRO] Spec Parse failure: [ParseError] /Users/jbalacha/Swiggy/specs/accountdemo.spec : line no: 12, Step should not be blank
+19:17:31.826 [INFO] Spec removed: /Users/jbalacha/Swiggy/specs/accountdemo.spec
+19:17:31.826 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/accountdemo.spec
+19:21:25.690 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+19:23:35.854 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+19:24:19.982 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+09:18:11.234 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+09:23:13.170 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+09:23:52.127 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+09:23:53.310 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/accountdemo.spec
+09:23:53.311 [INFO] Spec removed: /Users/jbalacha/Swiggy/specs/accountdemo.spec
+09:23:53.311 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/accountdemo.spec
+09:25:15.434 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/accountdemo.spec
+09:25:27.993 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+09:28:57.590 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+09:30:36.511 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+09:32:15.538 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+09:35:16.691 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+09:36:28.613 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+09:38:36.362 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+09:53:18.128 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+09:58:55.015 [INFO] Spec removed: /Users/jbalacha/Swiggy/specs/flipkart.spec
+09:58:55.015 [INFO] Spec added/modified: /Users/jbalacha/Swiggy/specs/flipkart.spec
+09:59:16.726 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+10:32:04.924 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+10:33:55.399 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+10:35:17.855 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+10:44:49.740 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+10:52:35.552 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+17:33:45.242 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+17:35:21.473 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+18:11:45.475 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+18:14:43.930 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+18:43:09.841 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+18:55:02.426 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs
+12:30:04.199 [INFO] Watching directory: /Users/jbalacha/Swiggy/specs

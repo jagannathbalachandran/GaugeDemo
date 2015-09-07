@@ -1,0 +1,976 @@
+16:24:58.380 [DEBU] Plugin [Html Report] with pid [25736] has exited
+16:24:58.380 [INFO] 2 scenarios executed, 0 failed
+16:24:58.380 [INFO] 1 specifications executed, 0 failed
+16:24:58.380 [INFO] 0 specifications skipped
+16:24:58.380 [INFO] 27ms
+21:52:35.620 [DEBU] Runner exited with error: exit status 1
+21:52:35.620 [WARN] Validation failed. The following steps have errors
+22:24:06.859 [DEBU] Runner exited with error: exit status 1
+22:36:51.402 [DEBU] Plugin [Html Report] with pid [2788] has exited
+22:36:55.404 [WARN] Killing runner with PID:2784 forcefully
+22:36:55.404 [INFO] 1 scenarios executed, 0 failed
+22:36:55.404 [INFO] 1 specifications executed, 0 failed
+22:36:55.404 [INFO] 0 specifications skipped
+22:36:55.404 [INFO] 17.009s
+22:48:52.766 [DEBU] Plugin [Html Report] with pid [2822] has exited
+22:48:56.768 [WARN] Killing runner with PID:2809 forcefully
+22:48:56.768 [INFO] 1 scenarios executed, 0 failed
+22:48:56.768 [INFO] 1 specifications executed, 0 failed
+22:48:56.768 [INFO] 0 specifications skipped
+22:48:56.768 [INFO] 17.282s
+22:50:09.017 [WARN] Validation failed. The following steps have errors
+22:51:24.205 [WARN] Validation failed. The following steps have errors
+22:51:59.720 [DEBU] Plugin [Html Report] with pid [2845] has exited
+22:52:03.721 [WARN] Killing runner with PID:2841 forcefully
+22:52:03.721 [INFO] 
+The following failures occured:
+22:52:03.721 [INFO] 1 scenarios executed, 1 failed
+22:52:03.721 [INFO] 1 specifications executed, 1 failed
+22:52:03.721 [INFO] 0 specifications skipped
+22:52:03.721 [INFO] 18.976s
+05:51:53.756 [DEBU] Plugin [Html Report] with pid [2922] has exited
+05:51:57.757 [WARN] Killing runner with PID:2918 forcefully
+05:51:57.758 [INFO] 1 scenarios executed, 0 failed
+05:51:57.758 [INFO] 1 specifications executed, 0 failed
+05:51:57.758 [INFO] 0 specifications skipped
+05:51:57.758 [INFO] 18.316s
+09:55:16.931 [DEBU] Plugin [Html Report] with pid [3601] has exited
+09:55:20.933 [WARN] Killing runner with PID:3597 forcefully
+09:55:20.933 [INFO] 
+The following failures occured:
+09:55:20.933 [INFO] 1 scenarios executed, 1 failed
+09:55:20.933 [INFO] 1 specifications executed, 1 failed
+09:55:20.933 [INFO] 0 specifications skipped
+09:55:20.933 [INFO] 24.338s
+09:56:44.149 [DEBU] Plugin [Html Report] with pid [3613] has exited
+09:56:48.151 [WARN] Killing runner with PID:3609 forcefully
+09:56:48.151 [INFO] 
+The following failures occured:
+09:56:48.151 [INFO] 1 scenarios executed, 1 failed
+09:56:48.151 [INFO] 1 specifications executed, 1 failed
+09:56:48.151 [INFO] 0 specifications skipped
+09:56:48.151 [INFO] 22.578s
+09:58:05.956 [DEBU] Plugin [Html Report] with pid [3624] has exited
+09:58:09.957 [WARN] Killing runner with PID:3620 forcefully
+09:58:09.957 [INFO] 
+The following failures occured:
+09:58:09.957 [INFO] 1 scenarios executed, 1 failed
+09:58:09.957 [INFO] 1 specifications executed, 1 failed
+09:58:09.957 [INFO] 0 specifications skipped
+09:58:09.957 [INFO] 29.882s
+09:58:54.400 [DEBU] Plugin [Html Report] with pid [3634] has exited
+09:58:58.402 [WARN] Killing runner with PID:3630 forcefully
+09:58:58.402 [INFO] 
+The following failures occured:
+09:58:58.402 [INFO] 1 scenarios executed, 1 failed
+09:58:58.402 [INFO] 1 specifications executed, 1 failed
+09:58:58.402 [INFO] 0 specifications skipped
+09:58:58.402 [INFO] 22.793s
+10:00:05.477 [DEBU] Plugin [Html Report] with pid [3648] has exited
+10:00:06.282 [INFO] 1 scenarios executed, 0 failed
+10:00:06.282 [INFO] 1 specifications executed, 0 failed
+10:00:06.282 [INFO] 0 specifications skipped
+10:00:06.282 [INFO] 22.568s
+18:25:46.686 [DEBU] Plugin [Html Report] with pid [4140] has exited
+18:25:50.687 [WARN] Killing runner with PID:4136 forcefully
+18:25:50.687 [INFO] 
+The following failures occured:
+18:25:50.687 [INFO] 1 scenarios executed, 1 failed
+18:25:50.687 [INFO] 1 specifications executed, 1 failed
+18:25:50.687 [INFO] 0 specifications skipped
+18:25:50.687 [INFO] 54.554s
+18:57:04.608 [DEBU] Plugin [Html Report] with pid [4225] has exited
+18:57:06.119 [INFO] 
+The following failures occured:
+18:57:06.120 [INFO] 1 scenarios executed, 1 failed
+18:57:06.120 [INFO] 1 specifications executed, 1 failed
+18:57:06.120 [INFO] 0 specifications skipped
+18:57:06.120 [INFO] 615ms
+18:57:36.844 [DEBU] Plugin [Html Report] with pid [4235] has exited
+18:57:40.845 [WARN] Killing runner with PID:4231 forcefully
+18:57:40.845 [INFO] 1 scenarios executed, 0 failed
+18:57:40.845 [INFO] 1 specifications executed, 0 failed
+18:57:40.845 [INFO] 0 specifications skipped
+18:57:40.845 [INFO] 8.447s
+18:58:01.973 [DEBU] Plugin [Html Report] with pid [4256] has exited
+18:58:05.973 [WARN] Killing runner with PID:4252 forcefully
+18:58:05.974 [INFO] 1 scenarios executed, 0 failed
+18:58:05.974 [INFO] 1 specifications executed, 0 failed
+18:58:05.974 [INFO] 0 specifications skipped
+18:58:05.974 [INFO] 7.695s
+19:11:26.500 [DEBU] Plugin [Html Report] with pid [4287] has exited
+19:11:30.501 [WARN] Killing runner with PID:4283 forcefully
+19:11:30.501 [INFO] 1 scenarios executed, 0 failed
+19:11:30.501 [INFO] 1 specifications executed, 0 failed
+19:11:30.501 [INFO] 0 specifications skipped
+19:11:30.501 [INFO] 7.685s
+19:19:13.267 [DEBU] Plugin [Html Report] with pid [4327] has exited
+19:19:17.267 [WARN] Killing runner with PID:4323 forcefully
+19:19:17.267 [INFO] 
+The following failures occured:
+19:19:17.267 [INFO] 1 scenarios executed, 1 failed
+19:19:17.267 [INFO] 1 specifications executed, 1 failed
+19:19:17.267 [INFO] 0 specifications skipped
+19:19:17.267 [INFO] 9.172s
+19:20:06.432 [DEBU] Plugin [Html Report] with pid [4348] has exited
+19:20:10.433 [WARN] Killing runner with PID:4344 forcefully
+19:20:10.433 [INFO] 
+The following failures occured:
+19:20:10.434 [INFO] 1 scenarios executed, 1 failed
+19:20:10.434 [INFO] 1 specifications executed, 1 failed
+19:20:10.434 [INFO] 0 specifications skipped
+19:20:10.434 [INFO] 9.517s
+19:20:56.302 [DEBU] Plugin [Html Report] with pid [4372] has exited
+19:21:00.303 [WARN] Killing runner with PID:4368 forcefully
+19:21:00.303 [INFO] 
+The following failures occured:
+19:21:00.303 [INFO] 1 scenarios executed, 1 failed
+19:21:00.303 [INFO] 1 specifications executed, 1 failed
+19:21:00.303 [INFO] 0 specifications skipped
+19:21:00.303 [INFO] 8.875s
+19:22:16.156 [DEBU] Plugin [Html Report] with pid [4394] has exited
+19:22:20.157 [WARN] Killing runner with PID:4390 forcefully
+19:22:20.157 [INFO] 1 scenarios executed, 0 failed
+19:22:20.157 [INFO] 1 specifications executed, 0 failed
+19:22:20.157 [INFO] 0 specifications skipped
+19:22:20.157 [INFO] 7.765s
+19:23:53.117 [DEBU] Plugin [Html Report] with pid [4417] has exited
+19:23:57.119 [WARN] Killing runner with PID:4413 forcefully
+19:23:57.119 [INFO] 1 scenarios executed, 0 failed
+19:23:57.119 [INFO] 1 specifications executed, 0 failed
+19:23:57.119 [INFO] 0 specifications skipped
+19:23:57.119 [INFO] 7.804s
+19:24:24.116 [DEBU] Plugin [Html Report] with pid [4440] has exited
+19:24:28.117 [WARN] Killing runner with PID:4436 forcefully
+19:24:28.117 [INFO] 1 scenarios executed, 0 failed
+19:24:28.117 [INFO] 1 specifications executed, 0 failed
+19:24:28.117 [INFO] 0 specifications skipped
+19:24:28.117 [INFO] 7.562s
+19:28:42.128 [DEBU] Plugin [Html Report] with pid [4471] has exited
+19:28:46.129 [WARN] Killing runner with PID:4467 forcefully
+19:28:46.129 [INFO] 1 scenarios executed, 0 failed
+19:28:46.129 [INFO] 1 specifications executed, 0 failed
+19:28:46.129 [INFO] 0 specifications skipped
+19:28:46.129 [INFO] 12.978s
+19:31:02.318 [DEBU] Plugin [Html Report] with pid [4499] has exited
+19:31:06.319 [WARN] Killing runner with PID:4495 forcefully
+19:31:06.319 [INFO] 1 scenarios executed, 0 failed
+19:31:06.319 [INFO] 1 specifications executed, 0 failed
+19:31:06.319 [INFO] 0 specifications skipped
+19:31:06.319 [INFO] 8.168s
+19:34:19.356 [DEBU] Plugin [Html Report] with pid [4523] has exited
+19:34:23.358 [WARN] Killing runner with PID:4519 forcefully
+19:34:23.358 [INFO] 1 scenarios executed, 0 failed
+19:34:23.358 [INFO] 1 specifications executed, 0 failed
+19:34:23.358 [INFO] 0 specifications skipped
+19:34:23.358 [INFO] 8.081s
+19:35:12.348 [DEBU] Plugin [Html Report] with pid [4545] has exited
+19:35:16.349 [WARN] Killing runner with PID:4541 forcefully
+19:35:16.349 [INFO] 1 scenarios executed, 0 failed
+19:35:16.349 [INFO] 1 specifications executed, 0 failed
+19:35:16.349 [INFO] 0 specifications skipped
+19:35:16.349 [INFO] 8.039s
+19:38:47.312 [DEBU] Plugin [Html Report] with pid [4566] has exited
+19:38:51.313 [WARN] Killing runner with PID:4562 forcefully
+19:38:51.313 [INFO] 
+The following failures occured:
+19:38:51.313 [INFO] 1 scenarios executed, 1 failed
+19:38:51.313 [INFO] 1 specifications executed, 1 failed
+19:38:51.313 [INFO] 0 specifications skipped
+19:38:51.313 [INFO] 8.554s
+19:40:27.268 [DEBU] Plugin [Html Report] with pid [4590] has exited
+19:40:31.269 [WARN] Killing runner with PID:4585 forcefully
+19:40:31.269 [INFO] 1 scenarios executed, 0 failed
+19:40:31.269 [INFO] 1 specifications executed, 0 failed
+19:40:31.269 [INFO] 0 specifications skipped
+19:40:31.269 [INFO] 10.509s
+19:41:15.162 [DEBU] Plugin [Html Report] with pid [4611] has exited
+19:41:19.163 [WARN] Killing runner with PID:4607 forcefully
+19:41:19.163 [INFO] 1 scenarios executed, 0 failed
+19:41:19.163 [INFO] 1 specifications executed, 0 failed
+19:41:19.163 [INFO] 0 specifications skipped
+19:41:19.163 [INFO] 8.955s
+19:42:11.107 [DEBU] Plugin [Html Report] with pid [4632] has exited
+19:42:15.108 [WARN] Killing runner with PID:4628 forcefully
+19:42:15.108 [INFO] 1 scenarios executed, 0 failed
+19:42:15.108 [INFO] 1 specifications executed, 0 failed
+19:42:15.108 [INFO] 0 specifications skipped
+19:42:15.108 [INFO] 9.11s
+19:47:18.959 [DEBU] Plugin [Html Report] with pid [4667] has exited
+19:47:22.961 [WARN] Killing runner with PID:4663 forcefully
+19:47:22.961 [INFO] 1 scenarios executed, 0 failed
+19:47:22.961 [INFO] 1 specifications executed, 0 failed
+19:47:22.961 [INFO] 0 specifications skipped
+19:47:22.961 [INFO] 12.75s
+19:49:36.040 [DEBU] Plugin [Html Report] with pid [4696] has exited
+19:49:40.042 [WARN] Killing runner with PID:4692 forcefully
+19:49:40.042 [INFO] 1 scenarios executed, 0 failed
+19:49:40.042 [INFO] 1 specifications executed, 0 failed
+19:49:40.042 [INFO] 0 specifications skipped
+19:49:40.042 [INFO] 12.31s
+19:50:17.865 [DEBU] Plugin [Html Report] with pid [4718] has exited
+19:50:21.866 [WARN] Killing runner with PID:4714 forcefully
+19:50:21.866 [INFO] 
+The following failures occured:
+19:50:21.866 [INFO] 1 scenarios executed, 1 failed
+19:50:21.866 [INFO] 1 specifications executed, 1 failed
+19:50:21.866 [INFO] 0 specifications skipped
+19:50:21.866 [INFO] 12.469s
+19:51:53.226 [DEBU] Plugin [Html Report] with pid [4742] has exited
+19:51:57.227 [WARN] Killing runner with PID:4738 forcefully
+19:51:57.227 [INFO] 
+The following failures occured:
+19:51:57.227 [INFO] 1 scenarios executed, 1 failed
+19:51:57.227 [INFO] 1 specifications executed, 1 failed
+19:51:57.227 [INFO] 0 specifications skipped
+19:51:57.227 [INFO] 8.441s
+19:56:46.740 [DEBU] Plugin [Html Report] with pid [4775] has exited
+19:56:50.740 [WARN] Killing runner with PID:4771 forcefully
+19:56:50.740 [INFO] 1 scenarios executed, 0 failed
+19:56:50.741 [INFO] 1 specifications executed, 0 failed
+19:56:50.741 [INFO] 0 specifications skipped
+19:56:50.741 [INFO] 4.953s
+19:58:33.071 [DEBU] Plugin [Html Report] with pid [4797] has exited
+19:58:37.071 [WARN] Killing runner with PID:4793 forcefully
+19:58:37.071 [INFO] 1 scenarios executed, 0 failed
+19:58:37.071 [INFO] 1 specifications executed, 0 failed
+19:58:37.071 [INFO] 0 specifications skipped
+19:58:37.071 [INFO] 12.585s
+20:27:09.772 [DEBU] Plugin [Html Report] with pid [4862] has exited
+20:27:13.773 [WARN] Killing runner with PID:4858 forcefully
+20:27:13.773 [INFO] 1 scenarios executed, 0 failed
+20:27:13.773 [INFO] 1 specifications executed, 0 failed
+20:27:13.773 [INFO] 0 specifications skipped
+20:27:13.773 [INFO] 8.116s
+20:29:24.561 [DEBU] Plugin [Html Report] with pid [4884] has exited
+20:29:28.563 [WARN] Killing runner with PID:4880 forcefully
+20:29:28.564 [INFO] 1 scenarios executed, 0 failed
+20:29:28.564 [INFO] 1 specifications executed, 0 failed
+20:29:28.564 [INFO] 0 specifications skipped
+20:29:28.564 [INFO] 5.584s
+20:31:59.786 [DEBU] Plugin [Html Report] with pid [4910] has exited
+20:32:03.787 [WARN] Killing runner with PID:4906 forcefully
+20:32:03.787 [INFO] 1 scenarios executed, 0 failed
+20:32:03.787 [INFO] 1 specifications executed, 0 failed
+20:32:03.787 [INFO] 0 specifications skipped
+20:32:03.787 [INFO] 6.232s
+20:47:17.737 [DEBU] Plugin [Html Report] with pid [4949] has exited
+20:47:21.738 [WARN] Killing runner with PID:4945 forcefully
+20:47:21.738 [INFO] 
+The following failures occured:
+20:47:21.738 [INFO] 1 scenarios executed, 1 failed
+20:47:21.738 [INFO] 1 specifications executed, 1 failed
+20:47:21.738 [INFO] 0 specifications skipped
+20:47:21.738 [INFO] 10.317s
+20:53:29.837 [DEBU] Plugin [Html Report] with pid [4977] has exited
+20:53:33.838 [WARN] Killing runner with PID:4973 forcefully
+20:53:33.838 [INFO] 
+The following failures occured:
+20:53:33.838 [INFO] 1 scenarios executed, 1 failed
+20:53:33.838 [INFO] 1 specifications executed, 1 failed
+20:53:33.838 [INFO] 0 specifications skipped
+20:53:33.838 [INFO] 7.858s
+20:59:45.526 [DEBU] Plugin [Html Report] with pid [5013] has exited
+20:59:49.527 [WARN] Killing runner with PID:5008 forcefully
+20:59:49.527 [INFO] 
+The following failures occured:
+20:59:49.527 [INFO] 1 scenarios executed, 1 failed
+20:59:49.527 [INFO] 1 specifications executed, 1 failed
+20:59:49.527 [INFO] 0 specifications skipped
+20:59:49.527 [INFO] 7.399s
+21:04:24.670 [DEBU] Plugin [Html Report] with pid [5043] has exited
+21:04:28.671 [WARN] Killing runner with PID:5039 forcefully
+21:04:28.671 [INFO] 1 scenarios executed, 0 failed
+21:04:28.671 [INFO] 1 specifications executed, 0 failed
+21:04:28.671 [INFO] 0 specifications skipped
+21:04:28.671 [INFO] 16.101s
+21:05:19.987 [DEBU] Plugin [Html Report] with pid [5064] has exited
+21:05:23.989 [WARN] Killing runner with PID:5060 forcefully
+21:05:23.989 [INFO] 1 scenarios executed, 0 failed
+21:05:23.989 [INFO] 1 specifications executed, 0 failed
+21:05:23.989 [INFO] 0 specifications skipped
+21:05:23.989 [INFO] 13.446s
+21:06:34.467 [DEBU] Plugin [Html Report] with pid [5084] has exited
+21:06:38.469 [WARN] Killing runner with PID:5080 forcefully
+21:06:38.469 [INFO] 1 scenarios executed, 0 failed
+21:06:38.469 [INFO] 1 specifications executed, 0 failed
+21:06:38.469 [INFO] 0 specifications skipped
+21:06:38.469 [INFO] 11.211s
+21:07:16.758 [DEBU] Plugin [Html Report] with pid [5108] has exited
+21:07:20.759 [WARN] Killing runner with PID:5103 forcefully
+21:07:20.759 [INFO] 1 scenarios executed, 0 failed
+21:07:20.759 [INFO] 1 specifications executed, 0 failed
+21:07:20.759 [INFO] 0 specifications skipped
+21:07:20.759 [INFO] 15.195s
+07:17:34.348 [DEBU] Plugin [Html Report] with pid [8750] has exited
+07:17:38.349 [WARN] Killing runner with PID:8746 forcefully
+07:17:38.349 [INFO] 1 scenarios executed, 0 failed
+07:17:38.349 [INFO] 1 specifications executed, 0 failed
+07:17:38.349 [INFO] 0 specifications skipped
+07:17:38.349 [INFO] 10.567s
+11:12:01.998 [WARN] Validation failed. The following steps have errors
+11:12:38.160 [DEBU] Plugin [Html Report] with pid [11348] has exited
+11:12:42.161 [WARN] Killing runner with PID:11344 forcefully
+11:12:42.161 [INFO] 
+The following failures occured:
+11:12:42.161 [INFO] 1 scenarios executed, 1 failed
+11:12:42.161 [INFO] 1 specifications executed, 1 failed
+11:12:42.161 [INFO] 0 specifications skipped
+11:12:42.161 [INFO] 12.559s
+11:16:50.675 [DEBU] Plugin [Html Report] with pid [11376] has exited
+11:16:54.675 [WARN] Killing runner with PID:11372 forcefully
+11:16:54.675 [INFO] 
+The following failures occured:
+11:16:54.675 [INFO] 1 scenarios executed, 1 failed
+11:16:54.675 [INFO] 1 specifications executed, 1 failed
+11:16:54.675 [INFO] 0 specifications skipped
+11:16:54.675 [INFO] 21.459s
+11:24:05.826 [DEBU] Plugin [Html Report] with pid [11411] has exited
+11:24:09.826 [WARN] Killing runner with PID:11407 forcefully
+11:24:09.826 [INFO] 
+The following failures occured:
+11:24:09.826 [INFO] 1 scenarios executed, 1 failed
+11:24:09.826 [INFO] 1 specifications executed, 1 failed
+11:24:09.827 [INFO] 0 specifications skipped
+11:24:09.827 [INFO] 19.729s
+11:25:22.599 [DEBU] Plugin [Html Report] with pid [11433] has exited
+11:25:26.600 [WARN] Killing runner with PID:11429 forcefully
+11:25:26.601 [INFO] 1 scenarios executed, 0 failed
+11:25:26.601 [INFO] 1 specifications executed, 0 failed
+11:25:26.601 [INFO] 0 specifications skipped
+11:25:26.601 [INFO] 23.123s
+12:13:09.876 [DEBU] Plugin [Html Report] with pid [11665] has exited
+12:13:13.878 [WARN] Killing runner with PID:11661 forcefully
+12:13:13.878 [INFO] 1 scenarios executed, 0 failed
+12:13:13.878 [INFO] 1 specifications executed, 0 failed
+12:13:13.878 [INFO] 0 specifications skipped
+12:13:13.878 [INFO] 11.208s
+12:15:03.033 [DEBU] Plugin [Html Report] with pid [11696] has exited
+12:15:07.034 [WARN] Killing runner with PID:11692 forcefully
+12:15:07.034 [INFO] 
+The following failures occured:
+12:15:07.034 [INFO] 1 scenarios executed, 1 failed
+12:15:07.034 [INFO] 1 specifications executed, 1 failed
+12:15:07.034 [INFO] 0 specifications skipped
+12:15:07.034 [INFO] 12.286s
+12:15:56.815 [DEBU] Plugin [Html Report] with pid [11720] has exited
+12:16:00.817 [WARN] Killing runner with PID:11716 forcefully
+12:16:00.817 [INFO] 
+The following failures occured:
+12:16:00.817 [INFO] 1 scenarios executed, 1 failed
+12:16:00.817 [INFO] 1 specifications executed, 1 failed
+12:16:00.817 [INFO] 0 specifications skipped
+12:16:00.817 [INFO] 13.609s
+12:19:04.871 [DEBU] Plugin [Html Report] with pid [11747] has exited
+12:19:08.874 [WARN] Killing runner with PID:11743 forcefully
+12:19:08.874 [INFO] 
+The following failures occured:
+12:19:08.874 [INFO] 1 scenarios executed, 1 failed
+12:19:08.874 [INFO] 1 specifications executed, 1 failed
+12:19:08.874 [INFO] 0 specifications skipped
+12:19:08.874 [INFO] 12.663s
+12:25:53.893 [DEBU] Plugin [Html Report] with pid [11785] has exited
+12:25:57.894 [WARN] Killing runner with PID:11781 forcefully
+12:25:57.894 [INFO] 
+The following failures occured:
+12:25:57.894 [INFO] 1 scenarios executed, 1 failed
+12:25:57.894 [INFO] 1 specifications executed, 1 failed
+12:25:57.894 [INFO] 0 specifications skipped
+12:25:57.894 [INFO] 15.934s
+12:30:17.528 [DEBU] Plugin [Html Report] with pid [11815] has exited
+12:30:21.529 [WARN] Killing runner with PID:11811 forcefully
+12:30:21.529 [INFO] 
+The following failures occured:
+12:30:21.529 [INFO] 1 scenarios executed, 1 failed
+12:30:21.529 [INFO] 1 specifications executed, 1 failed
+12:30:21.529 [INFO] 0 specifications skipped
+12:30:21.529 [INFO] 15.865s
+12:31:15.760 [DEBU] Plugin [Html Report] with pid [11840] has exited
+12:31:19.761 [WARN] Killing runner with PID:11836 forcefully
+12:31:19.761 [INFO] 
+The following failures occured:
+12:31:19.761 [INFO] 1 scenarios executed, 1 failed
+12:31:19.761 [INFO] 1 specifications executed, 1 failed
+12:31:19.761 [INFO] 0 specifications skipped
+12:31:19.761 [INFO] 12.836s
+12:38:35.361 [DEBU] Plugin [Html Report] with pid [11887] has exited
+12:38:39.362 [WARN] Killing runner with PID:11880 forcefully
+12:38:39.362 [INFO] 
+The following failures occured:
+12:38:39.362 [INFO] 1 scenarios executed, 1 failed
+12:38:39.362 [INFO] 1 specifications executed, 1 failed
+12:38:39.362 [INFO] 0 specifications skipped
+12:38:39.362 [INFO] 13.26s
+12:40:10.226 [DEBU] Plugin [Html Report] with pid [11914] has exited
+12:40:14.226 [WARN] Killing runner with PID:11910 forcefully
+12:40:14.226 [INFO] 
+The following failures occured:
+12:40:14.226 [INFO] 1 scenarios executed, 1 failed
+12:40:14.226 [INFO] 1 specifications executed, 1 failed
+12:40:14.226 [INFO] 0 specifications skipped
+12:40:14.226 [INFO] 13.913s
+12:46:52.884 [DEBU] Plugin [Html Report] with pid [11960] has exited
+12:46:56.885 [WARN] Killing runner with PID:11956 forcefully
+12:46:56.885 [INFO] 
+The following failures occured:
+12:46:56.885 [INFO] 1 scenarios executed, 1 failed
+12:46:56.885 [INFO] 1 specifications executed, 1 failed
+12:46:56.885 [INFO] 0 specifications skipped
+12:46:56.885 [INFO] 12.163s
+12:51:40.335 [DEBU] Plugin [Html Report] with pid [11988] has exited
+12:51:44.335 [WARN] Killing runner with PID:11984 forcefully
+12:51:44.335 [INFO] 
+The following failures occured:
+12:51:44.335 [INFO] 1 scenarios executed, 1 failed
+12:51:44.335 [INFO] 1 specifications executed, 1 failed
+12:51:44.335 [INFO] 0 specifications skipped
+12:51:44.335 [INFO] 24.174s
+12:52:45.116 [DEBU] Plugin [Html Report] with pid [12010] has exited
+12:52:49.116 [WARN] Killing runner with PID:12006 forcefully
+12:52:49.116 [INFO] 
+The following failures occured:
+12:52:49.116 [INFO] 1 scenarios executed, 1 failed
+12:52:49.116 [INFO] 1 specifications executed, 1 failed
+12:52:49.116 [INFO] 0 specifications skipped
+12:52:49.116 [INFO] 23.064s
+12:53:49.954 [DEBU] Plugin [Html Report] with pid [12032] has exited
+12:53:53.955 [WARN] Killing runner with PID:12028 forcefully
+12:53:53.955 [INFO] 
+The following failures occured:
+12:53:53.955 [INFO] 1 scenarios executed, 1 failed
+12:53:53.955 [INFO] 1 specifications executed, 1 failed
+12:53:53.955 [INFO] 0 specifications skipped
+12:53:53.955 [INFO] 14.063s
+12:58:31.122 [DEBU] Plugin [Html Report] with pid [12063] has exited
+12:58:35.123 [WARN] Killing runner with PID:12059 forcefully
+12:58:35.123 [INFO] 
+The following failures occured:
+12:58:35.123 [INFO] 1 scenarios executed, 1 failed
+12:58:35.123 [INFO] 1 specifications executed, 1 failed
+12:58:35.123 [INFO] 0 specifications skipped
+12:58:35.123 [INFO] 12.992s
+13:00:36.252 [DEBU] Plugin [Html Report] with pid [12088] has exited
+13:00:40.253 [WARN] Killing runner with PID:12084 forcefully
+13:00:40.253 [INFO] 
+The following failures occured:
+13:00:40.253 [INFO] 1 scenarios executed, 1 failed
+13:00:40.253 [INFO] 1 specifications executed, 1 failed
+13:00:40.253 [INFO] 0 specifications skipped
+13:00:40.253 [INFO] 11.358s
+13:01:51.759 [DEBU] Plugin [Html Report] with pid [12112] has exited
+13:01:55.760 [WARN] Killing runner with PID:12108 forcefully
+13:01:55.760 [INFO] 
+The following failures occured:
+13:01:55.760 [INFO] 1 scenarios executed, 1 failed
+13:01:55.760 [INFO] 1 specifications executed, 1 failed
+13:01:55.760 [INFO] 0 specifications skipped
+13:01:55.760 [INFO] 13.008s
+13:03:07.925 [DEBU] Plugin [Html Report] with pid [12136] has exited
+13:03:11.925 [WARN] Killing runner with PID:12132 forcefully
+13:03:11.925 [INFO] 
+The following failures occured:
+13:03:11.925 [INFO] 1 scenarios executed, 1 failed
+13:03:11.925 [INFO] 1 specifications executed, 1 failed
+13:03:11.925 [INFO] 0 specifications skipped
+13:03:11.925 [INFO] 12.344s
+13:04:25.321 [DEBU] Plugin [Html Report] with pid [12160] has exited
+13:04:29.323 [WARN] Killing runner with PID:12156 forcefully
+13:04:29.323 [INFO] 
+The following failures occured:
+13:04:29.323 [INFO] 1 scenarios executed, 1 failed
+13:04:29.323 [INFO] 1 specifications executed, 1 failed
+13:04:29.323 [INFO] 0 specifications skipped
+13:04:29.323 [INFO] 11.685s
+13:06:46.229 [DEBU] Plugin [Html Report] with pid [12188] has exited
+13:06:50.230 [WARN] Killing runner with PID:12184 forcefully
+13:06:50.230 [INFO] 1 scenarios executed, 0 failed
+13:06:50.230 [INFO] 1 specifications executed, 0 failed
+13:06:50.230 [INFO] 0 specifications skipped
+13:06:50.230 [INFO] 30.171s
+13:07:22.116 [DEBU] Plugin [Html Report] with pid [12208] has exited
+13:07:26.117 [WARN] Killing runner with PID:12204 forcefully
+13:07:26.117 [INFO] 1 scenarios executed, 0 failed
+13:07:26.117 [INFO] 1 specifications executed, 0 failed
+13:07:26.117 [INFO] 0 specifications skipped
+13:07:26.117 [INFO] 26.219s
+15:04:07.631 [WARN] Validation failed. The following steps have errors
+15:04:59.430 [DEBU] Plugin [Html Report] with pid [12497] has exited
+15:05:03.430 [WARN] Killing runner with PID:12493 forcefully
+15:05:03.430 [INFO] 1 scenarios executed, 0 failed
+15:05:03.430 [INFO] 1 specifications executed, 0 failed
+15:05:03.430 [INFO] 0 specifications skipped
+15:05:03.430 [INFO] 32.843s
+15:10:31.372 [DEBU] Plugin [Html Report] with pid [12527] has exited
+15:10:35.374 [WARN] Killing runner with PID:12523 forcefully
+15:10:35.374 [INFO] 1 scenarios executed, 0 failed
+15:10:35.374 [INFO] 1 specifications executed, 0 failed
+15:10:35.374 [INFO] 0 specifications skipped
+15:10:35.374 [INFO] 27.507s
+15:23:14.411 [DEBU] Plugin [Html Report] with pid [12609] has exited
+15:23:18.412 [WARN] Killing runner with PID:12605 forcefully
+15:23:18.412 [INFO] 
+The following failures occured:
+15:23:18.412 [INFO] 1 scenarios executed, 1 failed
+15:23:18.412 [INFO] 1 specifications executed, 1 failed
+15:23:18.412 [INFO] 0 specifications skipped
+15:23:18.412 [INFO] 36.555s
+15:28:29.426 [DEBU] Plugin [Html Report] with pid [12639] has exited
+15:28:33.427 [WARN] Killing runner with PID:12635 forcefully
+15:28:33.427 [INFO] 
+The following failures occured:
+15:28:33.428 [INFO] 1 scenarios executed, 1 failed
+15:28:33.428 [INFO] 1 specifications executed, 1 failed
+15:28:33.428 [INFO] 0 specifications skipped
+15:28:33.428 [INFO] 37.343s
+15:30:36.770 [DEBU] Plugin [Html Report] with pid [12659] has exited
+15:30:40.770 [WARN] Killing runner with PID:12655 forcefully
+15:30:40.770 [INFO] 
+The following failures occured:
+15:30:40.770 [INFO] 1 scenarios executed, 1 failed
+15:30:40.770 [INFO] 1 specifications executed, 1 failed
+15:30:40.770 [INFO] 0 specifications skipped
+15:30:40.771 [INFO] 36.304s
+15:34:56.693 [DEBU] Plugin [Html Report] with pid [12686] has exited
+15:35:00.694 [WARN] Killing runner with PID:12682 forcefully
+15:35:00.694 [INFO] 
+The following failures occured:
+15:35:00.695 [INFO] 1 scenarios executed, 1 failed
+15:35:00.695 [INFO] 1 specifications executed, 1 failed
+15:35:00.695 [INFO] 0 specifications skipped
+15:35:00.695 [INFO] 13.118s
+15:37:19.740 [DEBU] Plugin [Html Report] with pid [12708] has exited
+15:37:23.741 [WARN] Killing runner with PID:12704 forcefully
+15:37:23.741 [INFO] 
+The following failures occured:
+15:37:23.741 [INFO] 1 scenarios executed, 1 failed
+15:37:23.741 [INFO] 1 specifications executed, 1 failed
+15:37:23.741 [INFO] 0 specifications skipped
+15:37:23.741 [INFO] 13.57s
+15:41:04.919 [DEBU] Plugin [Html Report] with pid [12735] has exited
+15:41:08.920 [WARN] Killing runner with PID:12731 forcefully
+15:41:08.920 [INFO] 1 scenarios executed, 0 failed
+15:41:08.920 [INFO] 1 specifications executed, 0 failed
+15:41:08.920 [INFO] 0 specifications skipped
+15:41:08.920 [INFO] 26.288s
+15:46:39.001 [DEBU] Plugin [Html Report] with pid [12761] has exited
+15:46:43.002 [WARN] Killing runner with PID:12756 forcefully
+15:46:43.003 [INFO] 
+The following failures occured:
+15:46:43.003 [INFO] 1 scenarios executed, 1 failed
+15:46:43.003 [INFO] 1 specifications executed, 1 failed
+15:46:43.003 [INFO] 0 specifications skipped
+15:46:43.003 [INFO] 24.193s
+15:48:19.533 [DEBU] Plugin [Html Report] with pid [12787] has exited
+15:48:23.534 [WARN] Killing runner with PID:12783 forcefully
+15:48:23.535 [INFO] 1 scenarios executed, 0 failed
+15:48:23.535 [INFO] 1 specifications executed, 0 failed
+15:48:23.535 [INFO] 0 specifications skipped
+15:48:23.535 [INFO] 28.399s
+16:00:12.761 [WARN] Validation failed. The following steps have errors
+16:02:07.285 [DEBU] Plugin [Html Report] with pid [12840] has exited
+16:02:11.287 [WARN] Killing runner with PID:12836 forcefully
+16:02:11.287 [INFO] 
+The following failures occured:
+16:02:11.287 [INFO] 1 scenarios executed, 1 failed
+16:02:11.287 [INFO] 1 specifications executed, 1 failed
+16:02:11.287 [INFO] 0 specifications skipped
+16:02:11.287 [INFO] 31.96s
+16:03:05.546 [DEBU] Plugin [Html Report] with pid [12862] has exited
+16:03:09.548 [WARN] Killing runner with PID:12858 forcefully
+16:03:09.548 [INFO] 
+The following failures occured:
+16:03:09.548 [INFO] 1 scenarios executed, 1 failed
+16:03:09.548 [INFO] 1 specifications executed, 1 failed
+16:03:09.548 [INFO] 0 specifications skipped
+16:03:09.548 [INFO] 30.834s
+16:41:41.688 [DEBU] Plugin [Html Report] with pid [12956] has exited
+16:41:45.688 [WARN] Killing runner with PID:12952 forcefully
+16:41:45.689 [INFO] 
+The following failures occured:
+16:41:45.689 [INFO] 1 scenarios executed, 1 failed
+16:41:45.689 [INFO] 1 specifications executed, 1 failed
+16:41:45.689 [INFO] 0 specifications skipped
+16:41:45.689 [INFO] 29.833s
+16:42:47.780 [DEBU] Plugin [Html Report] with pid [12977] has exited
+16:42:51.781 [WARN] Killing runner with PID:12973 forcefully
+16:42:51.781 [INFO] 
+The following failures occured:
+16:42:51.782 [INFO] 1 scenarios executed, 1 failed
+16:42:51.782 [INFO] 1 specifications executed, 1 failed
+16:42:51.782 [INFO] 0 specifications skipped
+16:42:51.782 [INFO] 28.914s
+16:44:01.363 [DEBU] Plugin [Html Report] with pid [12998] has exited
+16:44:05.364 [WARN] Killing runner with PID:12994 forcefully
+16:44:05.364 [INFO] 
+The following failures occured:
+16:44:05.364 [INFO] 1 scenarios executed, 1 failed
+16:44:05.364 [INFO] 1 specifications executed, 1 failed
+16:44:05.364 [INFO] 0 specifications skipped
+16:44:05.364 [INFO] 35.115s
+16:45:54.097 [DEBU] Plugin [Html Report] with pid [13024] has exited
+16:45:58.098 [WARN] Killing runner with PID:13020 forcefully
+16:45:58.098 [INFO] 
+The following failures occured:
+16:45:58.098 [INFO] 1 scenarios executed, 1 failed
+16:45:58.098 [INFO] 1 specifications executed, 1 failed
+16:45:58.098 [INFO] 0 specifications skipped
+16:45:58.098 [INFO] 40.692s
+16:46:58.128 [DEBU] Plugin [Html Report] with pid [13046] has exited
+16:47:02.132 [WARN] Killing runner with PID:13042 forcefully
+16:47:02.132 [INFO] 
+The following failures occured:
+16:47:02.132 [INFO] 1 scenarios executed, 1 failed
+16:47:02.132 [INFO] 1 specifications executed, 1 failed
+16:47:02.132 [INFO] 0 specifications skipped
+16:47:02.132 [INFO] 36.323s
+16:46:41.005 [WARN] Validation failed. The following steps have errors
+10:23:47.888 [WARN] Validation failed. The following steps have errors
+10:25:02.608 [DEBU] Plugin [Html Report] with pid [2635] has exited
+10:25:06.609 [WARN] Killing runner with PID:2631 forcefully
+10:25:06.609 [INFO] 
+The following failures occured:
+10:25:06.609 [INFO] 2 scenarios executed, 1 failed
+10:25:06.609 [INFO] 1 specifications executed, 1 failed
+10:25:06.609 [INFO] 0 specifications skipped
+10:25:06.609 [INFO] 59.943s
+16:07:49.267 [WARN] Killing runner with PID:10377 forcefully
+16:07:55.992 [DEBU] Runner exited with error: signal: killed
+19:52:54.509 [DEBU] Plugin [Html Report] with pid [10926] has exited
+19:52:58.509 [WARN] Killing runner with PID:10922 forcefully
+19:52:58.509 [INFO] 
+The following failures occured:
+19:52:58.509 [INFO] 2 scenarios executed, 1 failed
+19:52:58.509 [INFO] 1 specifications executed, 1 failed
+19:52:58.509 [INFO] 0 specifications skipped
+19:52:58.509 [INFO] 1m9.395s
+20:18:59.491 [DEBU] Plugin [Html Report] with pid [10987] has exited
+20:19:03.493 [WARN] Killing runner with PID:10983 forcefully
+20:19:03.493 [INFO] 
+The following failures occured:
+20:19:03.493 [INFO] 2 scenarios executed, 2 failed
+20:19:03.493 [INFO] 1 specifications executed, 1 failed
+20:19:03.493 [INFO] 0 specifications skipped
+20:19:03.493 [INFO] 42.846s
+20:53:28.142 [DEBU] Plugin [Html Report] with pid [11110] has exited
+20:53:32.142 [WARN] Killing runner with PID:11106 forcefully
+20:53:32.143 [INFO] 
+The following failures occured:
+20:53:32.143 [INFO] 2 scenarios executed, 2 failed
+20:53:32.143 [INFO] 1 specifications executed, 1 failed
+20:53:32.143 [INFO] 0 specifications skipped
+20:53:32.143 [INFO] 1m35.729s
+20:57:02.851 [DEBU] Plugin [Html Report] with pid [11145] has exited
+20:57:06.851 [WARN] Killing runner with PID:11141 forcefully
+20:57:06.851 [INFO] 
+The following failures occured:
+20:57:06.851 [INFO] 2 scenarios executed, 2 failed
+20:57:06.851 [INFO] 1 specifications executed, 1 failed
+20:57:06.851 [INFO] 0 specifications skipped
+20:57:06.851 [INFO] 52.787s
+20:59:44.154 [DEBU] Plugin [Html Report] with pid [11177] has exited
+20:59:48.158 [WARN] Killing runner with PID:11173 forcefully
+20:59:48.158 [INFO] 
+The following failures occured:
+20:59:48.158 [INFO] 2 scenarios executed, 2 failed
+20:59:48.158 [INFO] 1 specifications executed, 1 failed
+20:59:48.158 [INFO] 0 specifications skipped
+20:59:48.158 [INFO] 45.629s
+21:16:13.542 [DEBU] Plugin [Html Report] with pid [11238] has exited
+21:16:17.543 [WARN] Killing runner with PID:11232 forcefully
+21:16:17.543 [INFO] 
+The following failures occured:
+21:16:17.543 [INFO] 2 scenarios executed, 2 failed
+21:16:17.543 [INFO] 1 specifications executed, 1 failed
+21:16:17.543 [INFO] 0 specifications skipped
+21:16:17.543 [INFO] 55.055s
+21:24:33.838 [DEBU] Plugin [Html Report] with pid [11275] has exited
+21:24:37.839 [WARN] Killing runner with PID:11269 forcefully
+21:24:37.839 [INFO] 
+The following failures occured:
+21:24:37.839 [INFO] 1 scenarios executed, 1 failed
+21:24:37.839 [INFO] 1 specifications executed, 1 failed
+21:24:37.839 [INFO] 0 specifications skipped
+21:24:37.839 [INFO] 6.387s
+21:29:28.302 [DEBU] Plugin [Html Report] with pid [11305] has exited
+21:29:32.302 [WARN] Killing runner with PID:11300 forcefully
+21:29:32.302 [INFO] 
+The following failures occured:
+21:29:32.302 [INFO] 1 scenarios executed, 1 failed
+21:29:32.302 [INFO] 1 specifications executed, 1 failed
+21:29:32.302 [INFO] 0 specifications skipped
+21:29:32.302 [INFO] 4.116s
+21:35:02.344 [DEBU] Plugin [Html Report] with pid [11329] has exited
+21:35:06.346 [WARN] Killing runner with PID:11324 forcefully
+21:35:06.346 [INFO] 
+The following failures occured:
+21:35:06.346 [INFO] 1 scenarios executed, 1 failed
+21:35:06.346 [INFO] 1 specifications executed, 1 failed
+21:35:06.346 [INFO] 0 specifications skipped
+21:35:06.346 [INFO] 5.004s
+21:55:37.140 [WARN] Killing runner with PID:11444 forcefully
+21:55:52.471 [DEBU] Runner exited with error: signal: killed
+21:59:45.962 [DEBU] Plugin [Html Report] with pid [11492] has exited
+21:59:49.963 [WARN] Killing runner with PID:11487 forcefully
+21:59:49.963 [INFO] 
+The following failures occured:
+21:59:49.963 [INFO] 2 scenarios executed, 2 failed
+21:59:49.963 [INFO] 1 specifications executed, 1 failed
+21:59:49.963 [INFO] 0 specifications skipped
+21:59:49.963 [INFO] 45.668s
+22:00:42.642 [DEBU] Plugin [Html Report] with pid [11525] has exited
+22:00:46.644 [WARN] Killing runner with PID:11521 forcefully
+22:00:46.644 [INFO] 
+The following failures occured:
+22:00:46.644 [INFO] 1 scenarios executed, 1 failed
+22:00:46.644 [INFO] 1 specifications executed, 1 failed
+22:00:46.644 [INFO] 0 specifications skipped
+22:00:46.644 [INFO] 5.194s
+22:01:20.393 [DEBU] Plugin [Html Report] with pid [11545] has exited
+22:01:24.394 [WARN] Killing runner with PID:11541 forcefully
+22:01:24.394 [INFO] 
+The following failures occured:
+22:01:24.394 [INFO] 1 scenarios executed, 1 failed
+22:01:24.394 [INFO] 1 specifications executed, 1 failed
+22:01:24.394 [INFO] 0 specifications skipped
+22:01:24.394 [INFO] 7.357s
+22:04:01.452 [DEBU] Plugin [Html Report] with pid [11568] has exited
+22:04:05.453 [WARN] Killing runner with PID:11564 forcefully
+22:04:05.453 [INFO] 1 scenarios executed, 0 failed
+22:04:05.453 [INFO] 1 specifications executed, 0 failed
+22:04:05.453 [INFO] 0 specifications skipped
+22:04:05.453 [INFO] 6.596s
+22:07:41.976 [DEBU] Plugin [Html Report] with pid [11588] has exited
+22:07:45.978 [WARN] Killing runner with PID:11584 forcefully
+22:07:45.978 [INFO] 1 scenarios executed, 0 failed
+22:07:45.978 [INFO] 1 specifications executed, 0 failed
+22:07:45.978 [INFO] 0 specifications skipped
+22:07:45.978 [INFO] 7.563s
+07:49:13.743 [DEBU] Plugin [Html Report] with pid [11898] has exited
+07:49:17.745 [WARN] Killing runner with PID:11891 forcefully
+07:49:17.745 [INFO] 1 scenarios executed, 0 failed
+07:49:17.745 [INFO] 1 specifications executed, 0 failed
+07:49:17.745 [INFO] 0 specifications skipped
+07:49:17.745 [INFO] 8.221s
+07:50:46.432 [DEBU] Plugin [Html Report] with pid [11919] has exited
+07:50:50.433 [WARN] Killing runner with PID:11914 forcefully
+07:50:50.433 [INFO] 1 scenarios executed, 0 failed
+07:50:50.433 [INFO] 1 specifications executed, 0 failed
+07:50:50.433 [INFO] 0 specifications skipped
+07:50:50.433 [INFO] 9.369s
+07:54:33.938 [DEBU] Plugin [Html Report] with pid [11951] has exited
+07:54:37.938 [WARN] Killing runner with PID:11949 forcefully
+07:54:37.938 [INFO] 
+The following failures occured:
+07:54:37.939 [INFO] 4 scenarios executed, 1 failed
+07:54:37.939 [INFO] 2 specifications executed, 1 failed
+07:54:37.939 [INFO] 0 specifications skipped
+07:54:37.939 [INFO] 33.98s
+08:13:51.212 [DEBU] Plugin [Html Report] with pid [11994] has exited
+08:13:55.213 [WARN] Killing runner with PID:11990 forcefully
+08:13:55.213 [INFO] 1 scenarios executed, 0 failed
+08:13:55.213 [INFO] 1 specifications executed, 0 failed
+08:13:55.213 [INFO] 0 specifications skipped
+08:13:55.213 [INFO] 6.387s
+19:16:25.615 [DEBU] Plugin [Html Report] with pid [12341] has exited
+19:16:29.617 [WARN] Killing runner with PID:12337 forcefully
+19:16:29.617 [INFO] 1 scenarios executed, 0 failed
+19:16:29.617 [INFO] 1 specifications executed, 0 failed
+19:16:29.617 [INFO] 0 specifications skipped
+19:16:29.617 [INFO] 16.261s
+19:21:32.118 [DEBU] Plugin [Html Report] with pid [12367] has exited
+19:21:36.119 [WARN] Killing runner with PID:12363 forcefully
+19:21:36.119 [INFO] 
+The following failures occured:
+19:21:36.119 [INFO] 1 scenarios executed, 1 failed
+19:21:36.119 [INFO] 1 specifications executed, 1 failed
+19:21:36.119 [INFO] 0 specifications skipped
+19:21:36.119 [INFO] 6.316s
+19:23:42.318 [DEBU] Plugin [Html Report] with pid [12388] has exited
+19:23:46.319 [WARN] Killing runner with PID:12384 forcefully
+19:23:46.319 [INFO] 
+The following failures occured:
+19:23:46.320 [INFO] 1 scenarios executed, 1 failed
+19:23:46.320 [INFO] 1 specifications executed, 1 failed
+19:23:46.320 [INFO] 0 specifications skipped
+19:23:46.320 [INFO] 6.354s
+19:24:26.444 [DEBU] Plugin [Html Report] with pid [12408] has exited
+19:24:30.445 [WARN] Killing runner with PID:12404 forcefully
+19:24:30.445 [INFO] 
+The following failures occured:
+19:24:30.445 [INFO] 1 scenarios executed, 1 failed
+19:24:30.445 [INFO] 1 specifications executed, 1 failed
+19:24:30.445 [INFO] 0 specifications skipped
+19:24:30.445 [INFO] 6.352s
+09:18:11.246 [INFO] Executing in 3 parallel streams.
+09:18:38.742 [WARN] Killing runner with PID:12602 forcefully
+09:18:53.308 [WARN] Killing runner with PID:12604 forcefully
+09:18:53.411 [DEBU] Plugin [Html Report] with pid [12601] has exited
+09:18:53.412 [INFO] 
+The following failures occured:
+09:18:53.415 [INFO] 5 scenarios executed, 2 failed
+09:18:53.415 [INFO] 3 specifications executed, 2 failed
+09:18:53.415 [INFO] 0 specifications skipped
+09:18:53.415 [INFO] 42.062s
+09:23:19.665 [DEBU] Plugin [Html Report] with pid [12659] has exited
+09:23:23.666 [WARN] Killing runner with PID:12655 forcefully
+09:23:23.666 [INFO] 
+The following failures occured:
+09:23:23.666 [INFO] 1 scenarios executed, 1 failed
+09:23:23.666 [INFO] 1 specifications executed, 1 failed
+09:23:23.666 [INFO] 0 specifications skipped
+09:23:23.666 [INFO] 6.383s
+09:23:58.000 [DEBU] Plugin [Html Report] with pid [12679] has exited
+09:24:02.000 [WARN] Killing runner with PID:12675 forcefully
+09:24:02.000 [INFO] 1 scenarios executed, 0 failed
+09:24:02.000 [INFO] 1 specifications executed, 0 failed
+09:24:02.000 [INFO] 0 specifications skipped
+09:24:02.000 [INFO] 5.764s
+09:25:37.918 [DEBU] Plugin [Html Report] with pid [12708] has exited
+09:25:41.919 [WARN] Killing runner with PID:12704 forcefully
+09:25:41.919 [INFO] 
+The following failures occured:
+09:25:41.919 [INFO] 1 scenarios executed, 1 failed
+09:25:41.919 [INFO] 1 specifications executed, 1 failed
+09:25:41.919 [INFO] 0 specifications skipped
+09:25:41.919 [INFO] 9.806s
+09:29:06.514 [DEBU] Plugin [Html Report] with pid [12727] has exited
+09:29:10.516 [WARN] Killing runner with PID:12723 forcefully
+09:29:10.516 [INFO] 1 scenarios executed, 0 failed
+09:29:10.516 [INFO] 1 specifications executed, 0 failed
+09:29:10.516 [INFO] 0 specifications skipped
+09:29:10.516 [INFO] 8.811s
+09:30:46.667 [DEBU] Plugin [Html Report] with pid [12746] has exited
+09:30:50.669 [WARN] Killing runner with PID:12742 forcefully
+09:30:50.669 [INFO] 1 scenarios executed, 0 failed
+09:30:50.669 [INFO] 1 specifications executed, 0 failed
+09:30:50.669 [INFO] 0 specifications skipped
+09:30:50.669 [INFO] 10.043s
+09:32:24.892 [DEBU] Plugin [Html Report] with pid [12768] has exited
+09:32:28.892 [WARN] Killing runner with PID:12764 forcefully
+09:32:28.893 [INFO] 1 scenarios executed, 0 failed
+09:32:28.893 [INFO] 1 specifications executed, 0 failed
+09:32:28.893 [INFO] 0 specifications skipped
+09:32:28.893 [INFO] 9.241s
+09:35:25.869 [DEBU] Plugin [Html Report] with pid [12792] has exited
+09:35:29.870 [WARN] Killing runner with PID:12788 forcefully
+09:35:29.870 [INFO] 1 scenarios executed, 0 failed
+09:35:29.870 [INFO] 1 specifications executed, 0 failed
+09:35:29.870 [INFO] 0 specifications skipped
+09:35:29.870 [INFO] 9.065s
+09:36:37.425 [DEBU] Plugin [Html Report] with pid [12815] has exited
+09:36:41.426 [WARN] Killing runner with PID:12811 forcefully
+09:36:41.426 [INFO] 1 scenarios executed, 0 failed
+09:36:41.426 [INFO] 1 specifications executed, 0 failed
+09:36:41.426 [INFO] 0 specifications skipped
+09:36:41.426 [INFO] 8.699s
+09:38:44.501 [DEBU] Plugin [Html Report] with pid [12848] has exited
+09:38:48.502 [WARN] Killing runner with PID:12844 forcefully
+09:38:48.502 [INFO] 
+The following failures occured:
+09:38:48.502 [INFO] 1 scenarios executed, 1 failed
+09:38:48.502 [INFO] 1 specifications executed, 1 failed
+09:38:48.502 [INFO] 0 specifications skipped
+09:38:48.502 [INFO] 8.027s
+09:53:46.926 [DEBU] Plugin [Html Report] with pid [12884] has exited
+09:53:50.927 [WARN] Killing runner with PID:12880 forcefully
+09:53:50.927 [INFO] 
+The following failures occured:
+09:53:50.927 [INFO] 1 scenarios executed, 1 failed
+09:53:50.927 [INFO] 1 specifications executed, 1 failed
+09:53:50.928 [INFO] 0 specifications skipped
+09:53:50.928 [INFO] 28.641s
+10:00:11.246 [DEBU] Plugin [Html Report] with pid [12905] has exited
+10:00:15.247 [WARN] Killing runner with PID:12901 forcefully
+10:00:15.247 [INFO] 
+The following failures occured:
+10:00:15.247 [INFO] 2 scenarios executed, 1 failed
+10:00:15.248 [INFO] 1 specifications executed, 1 failed
+10:00:15.248 [INFO] 0 specifications skipped
+10:00:15.248 [INFO] 54.408s
+10:32:06.236 [DEBU] Plugin [Html Report] with pid [12957] has exited
+10:32:07.044 [INFO] 
+The following failures occured:
+10:32:07.044 [INFO] 1 scenarios executed, 1 failed
+10:32:07.044 [INFO] 1 specifications executed, 1 failed
+10:32:07.044 [INFO] 0 specifications skipped
+10:32:07.044 [INFO] 1.194s
+10:33:56.296 [DEBU] Plugin [Html Report] with pid [12965] has exited
+10:33:59.822 [INFO] 
+The following failures occured:
+10:33:59.822 [INFO] 1 scenarios executed, 1 failed
+10:33:59.823 [INFO] 1 specifications executed, 1 failed
+10:33:59.823 [INFO] 0 specifications skipped
+10:33:59.823 [INFO] 782ms
+10:35:57.617 [DEBU] Plugin [Html Report] with pid [12975] has exited
+10:36:00.458 [INFO] 
+The following failures occured:
+10:36:00.458 [INFO] 1 scenarios executed, 1 failed
+10:36:00.458 [INFO] 1 specifications executed, 1 failed
+10:36:00.458 [INFO] 0 specifications skipped
+10:36:00.458 [INFO] 39.642s
+10:44:51.739 [DEBU] Plugin [Html Report] with pid [13024] has exited
+10:44:55.740 [WARN] Killing runner with PID:13020 forcefully
+10:44:55.740 [INFO] 
+The following failures occured:
+10:44:55.740 [INFO] 1 scenarios executed, 1 failed
+10:44:55.740 [INFO] 1 specifications executed, 1 failed
+10:44:55.740 [INFO] 0 specifications skipped
+10:44:55.740 [INFO] 1.888s
+10:53:23.921 [DEBU] Plugin [Html Report] with pid [13042] has exited
+10:53:27.922 [WARN] Killing runner with PID:13038 forcefully
+10:53:27.922 [INFO] 1 scenarios executed, 0 failed
+10:53:27.922 [INFO] 1 specifications executed, 0 failed
+10:53:27.922 [INFO] 0 specifications skipped
+10:53:27.922 [INFO] 48.258s
+17:34:41.791 [DEBU] Plugin [Html Report] with pid [13441] has exited
+17:34:45.794 [WARN] Killing runner with PID:13437 forcefully
+17:34:45.794 [INFO] 2 scenarios executed, 0 failed
+17:34:45.794 [INFO] 1 specifications executed, 0 failed
+17:34:45.794 [INFO] 0 specifications skipped
+17:34:45.794 [INFO] 56.402s
+17:35:29.904 [DEBU] Plugin [Html Report] with pid [13470] has exited
+17:35:33.905 [WARN] Killing runner with PID:13466 forcefully
+17:35:33.905 [INFO] 1 scenarios executed, 0 failed
+17:35:33.905 [INFO] 1 specifications executed, 0 failed
+17:35:33.905 [INFO] 0 specifications skipped
+17:35:33.905 [INFO] 8.319s
+18:11:47.622 [DEBU] Plugin [Html Report] with pid [13542] has exited
+18:11:51.623 [WARN] Killing runner with PID:13538 forcefully
+18:11:51.623 [INFO] 
+The following failures occured:
+18:11:51.623 [INFO] 1 scenarios executed, 1 failed
+18:11:51.623 [INFO] 1 specifications executed, 1 failed
+18:11:51.623 [INFO] 0 specifications skipped
+18:11:51.623 [INFO] 2.036s
+18:15:03.953 [DEBU] Plugin [Html Report] with pid [13566] has exited
+18:15:07.954 [WARN] Killing runner with PID:13562 forcefully
+18:15:07.954 [INFO] 1 scenarios executed, 0 failed
+18:15:07.954 [INFO] 1 specifications executed, 0 failed
+18:15:07.954 [INFO] 0 specifications skipped
+18:15:07.954 [INFO] 19.913s
+18:43:09.851 [INFO] Executing in 3 parallel streams.
+18:43:30.129 [WARN] Killing runner with PID:13777 forcefully
+18:44:00.391 [WARN] Killing runner with PID:13778 forcefully
+18:44:00.494 [DEBU] Plugin [Html Report] with pid [13776] has exited
+18:44:00.494 [INFO] 
+The following failures occured:
+18:44:00.495 [INFO] 5 scenarios executed, 1 failed
+18:44:00.495 [INFO] 3 specifications executed, 1 failed
+18:44:00.495 [INFO] 0 specifications skipped
+18:44:00.495 [INFO] 50.54s
+18:55:02.437 [INFO] Executing in 3 parallel streams.
+18:55:21.767 [WARN] Killing runner with PID:13846 forcefully
+18:55:53.744 [WARN] Killing runner with PID:13847 forcefully
+18:55:53.846 [DEBU] Plugin [Html Report] with pid [13845] has exited
+18:55:53.846 [INFO] 
+The following failures occured:
+18:55:53.847 [INFO] 5 scenarios executed, 1 failed
+18:55:53.847 [INFO] 3 specifications executed, 1 failed
+18:55:53.847 [INFO] 0 specifications skipped
+18:55:53.847 [INFO] 51.307s
+12:30:54.162 [DEBU] Plugin [Html Report] with pid [14710] has exited
+12:30:58.164 [WARN] Killing runner with PID:14706 forcefully
+12:30:58.164 [INFO] 1 scenarios executed, 0 failed
+12:30:58.164 [INFO] 1 specifications executed, 0 failed
+12:30:58.164 [INFO] 0 specifications skipped
+12:30:58.164 [INFO] 49.813s
