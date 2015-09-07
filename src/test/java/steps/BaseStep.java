@@ -16,6 +16,6 @@ public class BaseStep {
         ChromeOptions options = new ChromeOptions();
         options.addArguments("--start-maximized");
         driver = new ChromeDriver(options);
-        System.setProperty("webdriver.chrome.driver", "/Users/jbalacha/bin/chromedriver");
+        System.setProperty("webdriver.chrome.driver", "/usr/local/bin/chromedriver");
     }
 }
