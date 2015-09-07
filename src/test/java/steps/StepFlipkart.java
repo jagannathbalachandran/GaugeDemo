@@ -22,6 +22,10 @@ public class StepFlipkart extends BaseStep{
     FlipkartHomePage homePage;
 
 
+    public StepFlipkart() {
+        this.driver = MyDriverFactory.getDriver();
+    }
+
     @Step("login to flipkart website")
     public void login() {
         homePage = new FlipkartHomePage(driver);
